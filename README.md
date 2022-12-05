@@ -1,4 +1,4 @@
-# FinalWorkFerstSemester
+# FinalWorkFirstSemester
 ## 1. Создать репозиторий 
 1. Создал репозиторий с файлом Readme и .gitignore в GitHub.
 2. Клонировал к себе на локальный компьютер.
